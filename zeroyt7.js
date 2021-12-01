@@ -434,19 +434,15 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
-*┃┃* Nama Owner : ${ownername}
-*┃┃* Nama Bot : ${botname}
+*┃┃* Creator Bot : Agamzxzy
+*┃┃* Nama Owner : ${Agamz}
+*┃┃* Nama Bot : ${Agamz-Bot}
 *┃┃* Prefix : Multi Prefix
 *┃┃* Total Pengguna : ${pendaftar.length}
 *┃┃* Runtime : ${runtime(process.uptime())}
 *┃┃* Speed : ${latensi.toFixed(4)} second
 *┃┃* Language : Javascript & Nodejs
 *┃┗━━━━━━━━*
-*┃◗ Thanks To Allah S.W.T*
-*┃◗ Thank To Ortu*
-*┃◗ Thank To Zero YT7 (Creator)*
-*┃◗ Thanks To All Subscriberku*
 *┗━━━━━━━ •*`
                   but = [
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
